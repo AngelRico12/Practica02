@@ -1,4 +1,5 @@
 # Practica02
 
-https://github.com/AngelRico12/Practica02/blob/main/Captura1.PNG
+<img width="1215" height="679" alt="Captura1" src="https://github.com/user-attachments/assets/bfc10e02-e986-45f4-ab7f-3ea3f7cf4c83" />
+
 
