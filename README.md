@@ -1,7 +1,3 @@
-# Practica02
-
-<img width="1215" height="679" alt="Captura1" src="https://github.com/user-attachments/assets/bfc10e02-e986-45f4-ab7f-3ea3f7cf4c83" />
-
 
 # Proyecto de Videojuego
 
@@ -40,6 +36,15 @@ Practica 02
 Objetivo: Animar un persoaje dentro de unity usando modelo, rig y animaciones provenientes de mixamo
 Documentacion: https://drive.google.com/file/d/1b_1PV6rCMY4_XTCXiLGxGBrcudcFOkI6/view?usp=drive_link
 Video demostrativo: https://drive.google.com/file/d/1TieiqmMRpeAmGs0E6FwfuzUww57KlB-w/view?usp=drive_link
+
+Practica 03
+
+<img width="542" height="306" alt="image" src="https://github.com/user-attachments/assets/51c987c4-0286-4c4d-8acc-b4c703057aa1" />
+
+
+Objetivo: Crear un menu interactivo
+Documentacion: https://docs.google.com/document/d/1O5dUwhWRA6sA626mP2FwNq19qmoxUrCf/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true
+Video demostrativo: https://drive.google.com/file/d/1Qxb9T2IfdG0tX_56TiVerKQWZXbesu3R/view?usp=drive_link
 ---
 
 ##  Lecciones aprendidas
