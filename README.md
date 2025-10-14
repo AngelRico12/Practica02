@@ -24,8 +24,9 @@ El objetivo principal es implementar un personaje controlable, animaciones, reco
 1. **Lección 1 El Control del Jugador**
    
 Objetivo: Entender y comprender sobre coliciones, movimiento de personaje y camara
-Documentacion: [https://drive.google.com/file/d/1b_1PV6rCMY4_XTCXiLGxGBrcudcFOkI6/view?usp=drive_link](https://drive.google.com/file/d/1Xlaa5zS1p7LeOcUsmZ0XUw0G24cnpSIG/view?usp=drive_link)
-Video demostrativo: 
+Documentacion: https://docs.google.com/document/d/17GhWPvg9m5N8NOr1JjQTFEEwiwraO8nh/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true
+Video demostrativo: https://drive.google.com/file/d/1X3r73pwAXmXPdpKGwytD4hU-ssHnW_rh/view?usp=drive_link
+archivo package: https://drive.google.com/file/d/1af-AxgdbNx7UfmRs6Y4_WzT_JYRQey-W/view?usp=drive_link
 
 
    
