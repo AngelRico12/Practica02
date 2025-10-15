@@ -29,7 +29,7 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 ### Práctica 01
 
 **[Descripción de la práctica 1]**  
-*(Aquí puedes agregar una breve descripción si lo deseas)*
+
 
 ---
 
