@@ -25,7 +25,7 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 ### 2. Lección 2: Jugabilidad Básica
 - **Objetivo:** Entender y comprender sobre colisiones, movimiento de personaje y cámara.
 - **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1RfeEr7dKQnGUsnZhdImbyx5YqDPeFNh7/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
-- **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1X3r73pwAXmXPdpKGwytD4hU-ssHnW_rh/view?usp=drive_link)
+- **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1S0vvtZ8yx5avQodd_8Qc9wErtajQZ_zU/view?usp=drive_link)
 - **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1ais7ye__7KD_znU0bbOBizssO4faBlfC/view?usp=drive_link)
 
 ---
@@ -41,7 +41,6 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 
 ### Práctica 02
 
-![Captura 2](https://github.com/user-attachments/assets/5122b5ad-7db3-4b91-b5b6-ebaa1e59ebe6)
 
 - **Objetivo:** Animar un personaje dentro de Unity usando modelo, rig y animaciones provenientes de Mixamo.
 - **Documentación:** [Enlace a la documentación](https://drive.google.com/file/d/1b_1PV6rCMY4_XTCXiLGxGBrcudcFOkI6/view?usp=drive_link)
@@ -51,7 +50,7 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 
 ### Práctica 03
 
-![Captura 3](https://github.com/user-attachments/assets/51c987c4-0286-4c4d-8acc-b4c703057aa1)
+
 
 - **Objetivo:** Crear un menú interactivo.
 - **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1O5dUwhWRA6sA626mP2FwNq19qmoxUrCf/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
