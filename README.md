@@ -1,4 +1,4 @@
-# Proyecto de Videojuego
+# Proyecto de Videojuego - Jose Angel Rangel Rico
 
 Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendizaje práctico. El objetivo principal es implementar un personaje controlable, animaciones, recolección de objetos, un sistema de sonido y un menú interactivo.
 
