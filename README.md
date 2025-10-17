@@ -22,6 +22,12 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1X3r73pwAXmXPdpKGwytD4hU-ssHnW_rh/view?usp=drive_link)
 - **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1af-AxgdbNx7UfmRs6Y4_WzT_JYRQey-W/view?usp=drive_link)
 
+### 2. Lección 2: Jugabilidad Básica
+- **Objetivo:** Entender y comprender sobre colisiones, movimiento de personaje y cámara.
+- **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1RfeEr7dKQnGUsnZhdImbyx5YqDPeFNh7/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
+- **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1X3r73pwAXmXPdpKGwytD4hU-ssHnW_rh/view?usp=drive_link)
+- **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1ais7ye__7KD_znU0bbOBizssO4faBlfC/view?usp=drive_link)
+
 ---
 
 ## Prácticas (Proceso de desarrollo)
