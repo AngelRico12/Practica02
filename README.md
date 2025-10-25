@@ -26,7 +26,6 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 - **Objetivo:** Entender y comprender sobre colisiones, movimiento de personaje y cámara.
 - **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1RfeEr7dKQnGUsnZhdImbyx5YqDPeFNh7/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1S0vvtZ8yx5avQodd_8Qc9wErtajQZ_zU/view?usp=drive_link)
-- **Challenge:** [Ver video](https://drive.google.com/file/d/1d1K1UoZGWNIg-Ws9cF5PgNDPAXi5r0ew/view?usp=drive_link)
 - **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1ais7ye__7KD_znU0bbOBizssO4faBlfC/view?usp=drive_link)
 
 
@@ -34,6 +33,7 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 - **Objetivo:** .
 - **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1o_94rTe5hDPtQswZPT9Q4wfIXhqbUH8A/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1RYTgmmb1cx1_huZIaKiFXZyyjMmMwvrd/view?usp=drive_link)
+- **Challenge:** [Ver video](https://drive.google.com/file/d/1d1K1UoZGWNIg-Ws9cF5PgNDPAXi5r0ew/view?usp=drive_link)
 - **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1nzYCCm93aTQPjclelh-tL3r2zs5o3AOd/view?usp=drive_link)
 
 ### 5. Lección 5: Interfaz de Usuario
