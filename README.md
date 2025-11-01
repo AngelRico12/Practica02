@@ -70,6 +70,13 @@ Este proyecto es un videojuego desarrollado en Unity con un enfoque en aprendiza
 - **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1O5dUwhWRA6sA626mP2FwNq19qmoxUrCf/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1Qxb9T2IfdG0tX_56TiVerKQWZXbesu3R/view?usp=drive_link)
 
+### Práctica 04
+
+
+- **Objetivo:** 
+- **Documentación:** [Enlace a la documentación](https://docs.google.com/document/d/1QTh5m43bF5GAjuPFs4Ny5yEHBmwkSwRC/edit?usp=drive_link&ouid=105520291992609403609&rtpof=true&sd=true)
+- **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1sP94cdt_3uGmuXloJCdHFlVg-GhkjBrT/view?usp=drive_link)
+- **Archivo package:** [Descargar archivo](https://drive.google.com/file/d/1sLrCAKlfLNtKljwvUAZmR_D1vFyPZzOX/view?usp=drive_link)
 ---
 
 ## Lecciones aprendidas
